@@ -1,0 +1,77 @@
+.main-header {
+    background: url(../images/ccc_members.png);
+    min-height: 860px;
+    background-size: cover;
+    background-position: center;
+    font-weight: bold;
+}
+
+.main-header-gallery {
+  background: url(../images/ccc_background.jpg);
+  min-height: 860px;
+  background-size: cover;
+  background-position: center;
+  font-weight: bold;
+}
+
+.active-link {
+    color: purple;
+    font-weight: bold;
+   
+}
+
+.main-header .showcase {
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+
+.section-about {
+    padding-top: 50px;
+}
+.section-photographers {
+    background: url(../images/aguinaldo_shrine.jpg);
+    background-size: cover;
+    background-position: center;
+    border-top: #d847f1 solid 5px;
+    border-bottom: #d847f1 solid 5px;
+    min-height: 450px;
+    padding-top: 150px;
+  }
+
+  .primary-overlay {
+      background: rgba(112, 81, 176, 0.5);
+      
+  }
+
+  .section-gallery {
+    background: url(../images/sea_1.jpg);
+    background-size: cover;
+    background-position: center;
+    border-top: #d847f1 solid 5px;
+    border-bottom: #d847f1 solid 5px;
+    min-height: 450px;
+    padding-top: 150px;
+  }
+
+  .main-header-inner {
+    background: url(../images/ccc_background.jpg);
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    font-weight: bold;
+}
+  
+  .main-header-inner .active-link {
+    color: blue;
+  }
+
+  .main-header-inner .showcase {
+    padding-top: 50px;
+  }
+  
+  .btn-extend {
+    display: block;
+    width: 100%;
+  }
+ 
